@@ -13,6 +13,7 @@ const Header = props => (
     <div className="jumbotron text-center">
       <div className="container">
         <h1>Memory Click Game</h1>
+        <p className="jumbope">Baldino family edition</p>
         <p className="jumbop">Click an image but dont click it again or you restart!</p>
       </div>
     </div>

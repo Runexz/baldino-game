@@ -7,12 +7,18 @@
 
 .jumbop {
     color: white;
-    font-size: 35px;
+    font-size: 30px;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+.jumbope {
+    color: rgb(103, 182, 136);
+    font-size: 30px;
     text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
 h1 {
     color: white;
-    font-size: 45px;
+    font-size: 40px;
     text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
