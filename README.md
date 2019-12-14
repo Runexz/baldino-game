@@ -28,4 +28,4 @@ There will be a scoreboard that will score your current and overall best score o
 
 ## Application
 
-There is a link to the application [I am mentally prepared](https://protected-oasis-51713.herokuapp.com)
+There is a link to the application [I am mentally prepared](https://safe-river-03613.herokuapp.com/)
