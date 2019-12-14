@@ -1,68 +1,31 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Memory Click
 
-## Available Scripts
+This application will have the user click on random cards that are generated.  The user can only click on a card once or else the scoreboard will restart and the game will reset.
 
-In the project directory, you can run:
+## Resources used
 
-### `npm start`
+[React](https://reactjs.org) is used to grab multiple components and display on one page without having click on another link or reload the page.
+Library, package or technology used: [Bootstrap](https://getbootstrap.com/)
+[Heroku](https://www.heroku.com) is used to host the application.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## How good is your memory?
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+![Screenshot of the homepage](public/image/memoryIndex.jpg)
 
-### `npm test`
+Welcome to **Memory Click**! the game where you have to remember what image you clicked and try not to click it again.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Time to beat your personal best!
 
-### `npm run build`
+There will be a scoreboard that will score your current and overall best score of not clicking the same image more than once.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Screenshot of the scoreboard](public/image/scoreBoard.png)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## Images Galore
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+14 images will be displayed that the user will have to try not to click more than once.
 
-### `npm run eject`
+![Screenshot of the images](public/image/picCards.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Application
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+There is a link to the application [I am mentally prepared](https://protected-oasis-51713.herokuapp.com)
