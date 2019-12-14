@@ -10,7 +10,7 @@ Library, package or technology used: [Bootstrap](https://getbootstrap.com/)
 
 ## How good is your memory?
 
-![Screenshot of the homepage](public/imagez/memoryIndex.jpg)
+![Screenshot of the homepage](public/imagez/sIndex.png)
 
 Welcome to **Memory Click**! the game where you have to remember what image you clicked and try not to click it again.
 
@@ -24,7 +24,7 @@ There will be a scoreboard that will score your current and overall best score o
 
 14 images will be displayed that the user will have to try not to click more than once.
 
-![Screenshot of the images](public/imagez/picCards.png)
+![Screenshot of the images](public/imagez/sCards.png)
 
 ## Application
 
